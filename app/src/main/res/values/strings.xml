@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BirthdayGreetingApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="create_greeting_c_ard">Create Greeting C-ard</string>
+    <string name="birthday_greeting">Birthday Greeting</string>
+    <string name="harshad">harshad</string>
+    <string name="textview">TextView</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
